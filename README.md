@@ -8,10 +8,10 @@ This is the code for paper ["Automated Graph Learning via Population based Self-
 
 # Dataset
 The datasets (Cora, Citeseer and PubMed) are in [GoogleDrive](https://drive.google.com/file/d/1TXVTe2saZ80d26X5zhkqObhfhhTm6vyl/view?usp=sharing) and [BaiduPan (pw:frvg)](https://pan.baidu.com/s/1d5D5qApPvlYVdV5qWlUIgA).  
-You need to create a "./data" file in "./core" file and move the dataset into it.
+You need to create a "./data" file in "./citeseer" file and move the dataset into it.
 
 # Training
-You can run `python train_new.py` to train and evaluate.
+You can run `python train.py` to train and evaluate.
 
 # Citation
 If you use this code for you research, please consider citing:  
