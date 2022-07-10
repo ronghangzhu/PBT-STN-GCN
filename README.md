@@ -14,7 +14,7 @@ You need to create a "./data" file in "./citeseer" file and move the dataset int
 You can run `python train.py` to train and evaluate.
 
 # Citation
-If you use this code for you research, please consider citing:  
+If you use this code for your research, please consider citing:  
 ```
 @inproceedings{zhu2021automated,
   title={Automated Graph Learning via Population Based Self-Tuning GCN},
